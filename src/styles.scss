@@ -1,7 +1,12 @@
+@import "@fontsource/vazirmatn";
+@import "@fontsource/vazirmatn/400.css";
+@import "@fontsource/vazirmatn/700.css";
+@import "@fontsource/vazirmatn/index.css";
+
 body {
   width: 100%;
   height: 100%;
-  font-family: Vazirmatn, sans-serif;
+  font-family: "Vazirmatn", sans-serif;
   margin: 0;
   padding: 0;
 }
